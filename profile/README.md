@@ -1,5 +1,5 @@
 # .github
-![](profile/logo-white-en.png)
+![](logo-white-en.png)
 
 ----
 
