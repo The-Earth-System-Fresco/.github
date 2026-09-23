@@ -1,4 +1,3 @@
-# .github
 ![](logo-white-en.png)
 
 ----
